@@ -1,3 +1,3 @@
-# Project from simplilearn by simplilearn
+# Project from simplilearn by SruthiSree
 
-Start the aopplication by runnig LockedmeMain.java
+Start the Application by runnig LockedmeMain.java
